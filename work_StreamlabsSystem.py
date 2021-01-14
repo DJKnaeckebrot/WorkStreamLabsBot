@@ -15,14 +15,14 @@ from array import *
 # [Required] Script information
 #---------------------------------------
 ScriptName = "Work"
-Website = "https://www.twitch.tv/lyinix"
-Creator = "Dennis"
+Website = "https://github.com/mrdennis1212"
+Creator = "mrdennis1212"
 Version = "1.0"
 Description = "Work command"
 #---------------------------------------
 # Versions
 #---------------------------------------
-""" Releases (open README.txt for full release notes)
+""" Releases (open README.md for full release notes)
 1.0 - Initial Release
 """
 #---------------------------------------
