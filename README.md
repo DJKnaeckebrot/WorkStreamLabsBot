@@ -1,14 +1,10 @@
 # WorkStreamLabsBot
 
-___
-
  -Name: 		Work Streamlabs Bot
  -Version: 	1.0
  -Creator: 	[mrdennis1212](https://github.com/mrdennis1212)
  -[Website](https://github.com/mrdennis1212/WorkStreamLabsBot)
  
-___
-
 ## V1.0
 
  - Enable/Disable using the command when the stream is offline
