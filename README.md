@@ -1,8 +1,8 @@
 # WorkStreamLabsBot
 
-Name: 		Work Streamlabs Bot
-Version: 	1.0
-Creator: 	[mrdennis1212](https://github.com/mrdennis1212)
+Name: Work Streamlabs Bot
+Version: 1.0
+Creator: [mrdennis1212](https://github.com/mrdennis1212)
 [Website](https://github.com/mrdennis1212/WorkStreamLabsBot)
  
 ## V1.0
