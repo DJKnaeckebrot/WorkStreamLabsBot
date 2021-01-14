@@ -50,7 +50,7 @@ class Settings:
             self.PermissionInfo = ""
             self.Usage = "Stream Chat"
             self.UseCD = True
-            self.Cooldown = 5
+            self.Cooldown = 1800
             self.OnCooldown = "{0} the command is still on cooldown for {1} seconds!"
             self.UserCooldown = 10
             self.OnUserCooldown = "{0} the command is still on user cooldown for {1} seconds!"
