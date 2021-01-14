@@ -10,7 +10,7 @@
     "Command": {
     "type": "textbox",
     "value": "!work",
-    "label": "Command Name",
+    "label": "Command Name lel",
     "tooltip": "The command the bot will respond to",
     "group": "General"
   },
