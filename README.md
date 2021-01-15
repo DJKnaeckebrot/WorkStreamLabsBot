@@ -12,9 +12,9 @@ To trigger the bot use !work in the chat
 
 ## Installation
 
-1. Please copy the work_StreamlabsSystem.py and UI_Config.json into your Streamlabs Scripts folder
-2. Enable the script in Streamlabs Chatbot Application
-3. Modify the values of the script
+1. Please copy the work_StreamlabsSystem.py and UI_Config.json into your Streamlabs Scripts folder  
+2. Enable the script in Streamlabs Chatbot Application  
+3. Modify the values of the script  
  
 ## V1.0
 
