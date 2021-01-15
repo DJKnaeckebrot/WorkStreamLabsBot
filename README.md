@@ -4,6 +4,17 @@ Name: Work Streamlabs Bot
 Version: 1.0  
 Creator: [mrdennis1212](https://github.com/mrdennis1212)  
 [Website](https://github.com/mrdennis1212/WorkStreamLabsBot)
+
+
+## Usage
+
+To trigger the bot use !work in the chat
+
+## Installation
+
+1. Please copy the work_StreamlabsSystem.py and UI_Config.json into your Streamlabs Scripts folder
+2. Enable the script in Streamlabs Chatbot Application
+3. Modify the values of the script
  
 ## V1.0
 
